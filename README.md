@@ -1,1 +1,1 @@
-# C-Users-Bora-Desktop-GitHubProjects-Bank-Marketing-Predictive-Analysis
+Bank Marketing Predictive Analysis
